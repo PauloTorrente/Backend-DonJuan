@@ -24,14 +24,6 @@ Prerequisites
 Node.js v22.2.0 or later
 MongoDB (local or Atlas)
 npm (Node Package Manager)
-Installation
-Clone the Repository
-
-
-git clone https://github.com/yourusername/clothing-store-backend.git
-cd clothing-store-backend
-Install Dependencies
-
 
 npm install
 Set Up Environment Variables
