@@ -27,14 +27,12 @@ npm (Node Package Manager)
 Installation
 Clone the Repository
 
-bash
-Copiar código
+
 git clone https://github.com/yourusername/clothing-store-backend.git
 cd clothing-store-backend
 Install Dependencies
 
-bash
-Copiar código
+
 npm install
 Set Up Environment Variables
 
